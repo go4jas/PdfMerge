@@ -14,8 +14,8 @@ namespace PdfMerge
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"C:\Users\jaspreet.bhangoo\source\repos\PdfMerge\PdfMerge\src\";
-            string outputFile = @"C:\Users\jaspreet.bhangoo\source\repos\PdfMerge\PdfMerge\dest\out.pdf";
+            string sourcePath = @"C:\...\src\";
+            string outputFile = @"C:\...\dest\out.pdf";
 
             List<string> sourceFiles = new List<string>();
 
